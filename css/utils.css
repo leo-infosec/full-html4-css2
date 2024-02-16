@@ -1,0 +1,12 @@
+.uppercase{
+    text-transform: uppercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.float-left{
+    float: left;
+}
+.overflow{
+    overflow: hidden;
+}
